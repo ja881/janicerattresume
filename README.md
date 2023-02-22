@@ -169,7 +169,6 @@
            </div>
           <div>
               <h3>rattjanice@gmail.com</h3>
-              <h3>306-930-7239</h3>
               </div><br  />
            </div>
    </section>
